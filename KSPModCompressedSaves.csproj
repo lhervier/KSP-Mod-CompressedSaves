@@ -3,7 +3,7 @@
     <TargetFramework>net472</TargetFramework>
     <AssemblyName>KSPModCompressedSaves</AssemblyName>
     <RootNamespace>com.github.lhervier.ksp.mod.compressedsaves</RootNamespace>
-    <Version>0.1.0</Version>
+    <Version>0.1.0-dev</Version>
     <Description>Writes save games and craft files gzip-compressed, and reads both compressed and plain ones</Description>
     <!-- Straight into the folder that gets copied to the GameData of KSP. -->
     <OutputPath>GameData\KSPModCompressedSaves</OutputPath>
